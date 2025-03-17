@@ -18,10 +18,8 @@ Hướng dẫn chi tiết cấu hình Webhook.
     <span>Tính năng mua tiện ích bổ sung hiện đang bảo trì. Khách hàng vui lòng liên hệ với VBot để mua gói.</span>
 </div>
 
-Truy cập trang:
-<a href="#" class="custom-link">
-[Tiện ích bổ sung - VBot](https://console.vbot.vn/login?backurl=https%3A%2F%2Fconsole.vbot.vn%2Fuseraddon)
-</a>
+Truy cập trang: [Tiện ích bổ sung - VBot](https://console.vbot.vn/login?backurl=https%3A%2F%2Fconsole.vbot.vn%2Fuseraddon)
+
  
 ![Webhooks1](/Webhooks/Webhooks1.avif)
 

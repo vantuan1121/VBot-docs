@@ -2,6 +2,10 @@ export default {
   label: 'English',
   lang: 'en',
   themeConfig: {
+    docFooter: {
+      prev: 'Previous page',
+      next: 'Next page'
+    },
     nav: [
       { text: 'Home', link: '/en/' },
       { text: 'Documentation', link: '/en/doc/open-api/introduction' },

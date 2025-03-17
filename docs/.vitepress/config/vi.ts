@@ -2,6 +2,10 @@ export default {
   label: 'Tiếng Việt',
   lang: 'vi',
   themeConfig: {
+    docFooter: {
+      prev: 'Trang trước',
+      next: 'Trang tiếp theo'
+    },
     nav: [
       { text: 'Trang Chủ', link: '/vi/' },
       { text: 'Tài Liệu', link: '/vi/doc/open-api/introduction' },

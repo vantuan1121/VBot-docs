@@ -18,10 +18,8 @@ Detailed guide on configuring Webhooks.
     <span>The add-on purchase feature is currently under maintenance. Customers should contact VBot to purchase the package.</span>
 </div>
 
-Access the page:
-<a href="#" class="custom-link">
-[Add-ons - VBot](https://console.vbot.vn/login?backurl=https%3A%2F%2Fconsole.vbot.vn%2Fuseraddon)
-</a>
+Access the page: [Add-ons - VBot](https://console.vbot.vn/login?backurl=https%3A%2F%2Fconsole.vbot.vn%2Fuseraddon)
+
 
 ![Webhooks1](/Webhooks/Webhooks1.avif)
 
