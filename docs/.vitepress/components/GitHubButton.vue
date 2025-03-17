@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <template>
     <button class="button">
       <svg
@@ -18,6 +21,7 @@
   
   <style scoped>
   .button {
+    font-weight: 600;
     text-decoration: none;
     display: flex;
     gap: 10px;
@@ -28,38 +32,32 @@
     font-size: 1em;
     height: 2.5em;
     width: 10em;
-    border-radius: 0.5em;
+    border-radius: 20px;
     border: none;
     transition: all 0.3s ease-in-out;
   }
   
   /* Light mode */
-  html:not(.dark) .button {
-    background: #d1d1d1;
-    color: black;
-  }
-  
-  html:not(.dark) .button:hover {
-    background: black;
-    color: white;
-  }
-  
-  /* Dark mode */
-  html.dark .button {
-    background: #212121;
-    color: white;
-    outline: 1px solid #353535;
-  }
-  
-  html.dark .button:hover {
-    background: white;
-    color: black;
-  }
-  
-  .icon {
-    fill: currentColor;
-    width: 1em;
-    aspect-ratio: 1;
-  }
+html:not(.dark) .button {
+  background: #e4e4e9;
+  color: #3c3c43;
+}
+
+html:not(.dark) .button:hover {
+  background: #d4d4d9; /* Màu nền sáng hơn một chút */
+  color: #2c2c33;
+}
+
+/* Dark mode */
+html.dark .button {
+  background: #32363f;
+  color: #dfdfd6;
+  outline: 1px solid #32363f;
+}
+
+html.dark .button:hover {
+  background: #3c4049; /* Sáng hơn một chút thay vì trắng */
+  color: #ffffff;
+}
   </style>
   
