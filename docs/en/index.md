@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Vbot multi-function AI switchboard!"
+  name: "VBot multi-function AI switchboard!"
   text: 
   tagline: Multi-function AI switchboard solution helps businesses transform digitally in a comprehensive way.
   actions:

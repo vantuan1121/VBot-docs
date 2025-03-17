@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Vbot tổng đài AI đa tính năng!"
+  name: "VBot tổng đài AI đa tính năng!"
   text: 
   tagline: Giải pháp tổng đài AI đa chức năng giúp doanh nghiệp chuyển đổi số một cách toàn diện.
   actions:
