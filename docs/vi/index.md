@@ -3,22 +3,27 @@
 layout: home
 
 hero:
-  name: "Vbot tổng đài AI đa tính năng! "
+  name: "Vbot tổng đài AI đa tính năng!"
   text: 
   tagline: Giải pháp tổng đài AI đa chức năng giúp doanh nghiệp chuyển đổi số một cách toàn diện.
   actions:
     - theme: brand
-      text: API VBot là gì?
+      text: Giới Thiệu
       link: /vi/doc/open-api/introduction.html 
     - theme: alt
-      text: Bắt đầu nhanh
-      link: /vi/doc/open-api/introduction.html
+      text: Web
+      link: /vi/doc/web/web-sdk.html
+    - theme: alt
+      text: Android SDK
+      link: /vi/doc/android-sdk/cau-hinh-sdk.html
+    - theme: alt
+      text: iOS SDK
+      link: /vi/doc/ios-sdk/push-notification.html
 
   image:
-    src: /app-logo.png
+    src: /icon-pages.svg
     alt: App Logo
-    width: 150,
-    height: 50
+    width: 250,
 
 features:
   - icon: 💻

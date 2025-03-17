@@ -1,6 +1,36 @@
 /* .vitepress/theme/custom.css */
 
 /* Logo text VBot */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap');
+
+/* ALL */
+:root {
+  --font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  font-family: var(--font-family);
+}
+
+/* Vbot tổng đài AI đa tính năng! */
+@media (min-width: 960px) {
+  .name, .text {
+    font-family: 'Quicksand', sans-serif !important;
+    /* line-height: 60px !important;
+    font-size: 60px !important; */
+    font-weight: 500 !important;
+  }
+}
+
+/* Giải pháp tổng đài AI đa chức năng giúp doanh nghiệp chuyển đổi số một cách toàn diện. */
+@media (min-width: 960px) {
+  .tagline[data-v-c048e6d7] {
+    font-family: 'Quicksand', sans-serif !important;
+      line-height: 28px;
+      font-size: 20px;
+      font-weight: 500 !important;
+  }
+} */
 
 .sidebar-link.active {
   color: #42b983 !important;
@@ -10,9 +40,9 @@
 .VPNavBarTitle a {
     color: #19b24f !important;
   }
+
 :root {
     --vp-c-brand-1: #19b24f;
-  
   }
 
   :root {
@@ -20,7 +50,7 @@
  
     --vp-button-brand-bg: #19b24f;
 
-    --vp-home-hero-image-background-image: linear-gradient(-45deg, #4ea21e 50%, #18bd52 50%);   /* phát sáng logo */
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #309c56 50%, #18bd52 50%);   /* phát sáng logo */
     
     }
 

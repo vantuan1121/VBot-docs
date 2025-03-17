@@ -8,17 +8,23 @@ hero:
   tagline: Multi-function AI switchboard solution helps businesses transform digitally in a comprehensive way.
   actions:
     - theme: brand
-      text: What is VBot API?
+      text: Introduce
       link: /en/doc/open-api/introduction.html 
     - theme: alt
-      text: Quick Start
-      link: /en/doc/open-api/introduction.html
+      text: Web
+      link: /en/doc/web/web-sdk.html
+    - theme: alt
+      text: Android SDK
+      link: /en/doc/android-sdk/cau-hinh-sdk.html
+    - theme: alt
+      text: iOS SDK
+      link: /en/doc/ios-sdk/push-notification.html
 
   image:
-    src: /app-logo.png
+    src: /icon-pages.svg
     alt: App Logo
-    width: 150,
-    height: 50
+    width: 250,
+    
 
 features:
     - icon: 💻
